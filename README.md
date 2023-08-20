@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on different projects and different frameworks with different languages. I just graduated as an Electrical Engineer. 
+I'm currently working as a research on a Satellite as a software developer. I just graduated as an Electrical Engineer. 
 
 
 ## 🌐 Socials:
