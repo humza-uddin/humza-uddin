@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a researcher on a Satellite as a software developer. I just graduated as an Electrical Engineer with major in Embedded Systems, Communication, and Automation. 
+I'm learning new things and starting a startup. I just graduated as an Electrical Engineer with major in Embedded Systems, Communication, and Automation. 
 
 
 ## 🌐 Socials:
