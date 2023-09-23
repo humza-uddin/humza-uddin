@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning new things and starting a startup. I just graduated as an Electrical Engineer with major in Embedded Systems, Communication, and Automation. 
+I'm learning new things. I just graduated as an Electrical Engineer with a major in Embedded Systems, Communication, and Automation. 
 
 
 ## 🌐 Socials:
